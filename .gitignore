@@ -22,3 +22,13 @@ coverage/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local workspace state and verification artifacts
+data/
+test-results/
+playwright-report/
+output/
+*.tsbuildinfo
+
+# Local launcher runtime files
+.local/
